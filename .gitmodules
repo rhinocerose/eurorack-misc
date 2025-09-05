@@ -1,0 +1,8 @@
+[submodule "eurorack-fonitronik-sequential-switch"]
+	path = eurorack-fonitronik-sequential-switch
+	url = git@git-rhino:rhinocerose/eurorack-fonitronik-sequential-switch
+	branch = main
+[submodule "eurorack-TAM_V3"]
+	path = eurorack-TAM_V3
+	url = git@git-rhino:rhinocerose/eurorack-TAM_V3
+	branch = main
