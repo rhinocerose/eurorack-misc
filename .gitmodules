@@ -6,3 +6,27 @@
 	path = eurorack-TAM_V3
 	url = git@git-rhino:rhinocerose/eurorack-TAM_V3
 	branch = main
+[submodule "eurorack-Miasma_1.03_Revised"]
+	path = eurorack-Miasma_1.03_Revised
+	url = git@git-rhino:rhinocerose/eurorack-Miasma_1.03_Revised
+	branch = main
+[submodule "eurorack-drumbox"]
+	path = eurorack-drumbox
+	url = git@git-rhino:rhinocerose/eurorack-drumbox
+	branch = main
+[submodule "eurorack-Buffers"]
+	path = eurorack-Buffers
+	url = git@git-rhino:rhinocerose/eurorack-Buffers
+	branch = main
+[submodule "eurorack-bounce-sequencer"]
+	path = eurorack-bounce-sequencer
+	url = git@git-rhino:rhinocerose/eurorack-bounce-sequencer
+	branch = main
+[submodule "eurorack-Benjolin"]
+	path = eurorack-Benjolin
+	url = git@git-rhino:rhinocerose/eurorack-Benjolin
+	branch = main
+[submodule "eurorack-CATs-Eurosynth"]
+	path = eurorack-CATs-Eurosynth
+	url = git@git-rhino:rhinocerose/eurorack-CATs-Eurosynth
+	branch = main
